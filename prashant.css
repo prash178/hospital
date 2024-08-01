@@ -1,0 +1,42 @@
+
+/*Booking Section*/
+
+
+.booking-section{
+    background:url("./images\ \(18\).jpeg") no-repeat;
+background-size: cover;
+padding: 100px 0px;
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+.form-control {
+border-radius: 0;
+height: 30px;
+width: 600px;border
+
+
+
+}
+
+.form-group {
+margin-bottom: 15px;
+}
+
+textarea {
+height: 260px !important;
+}
+
+.form-col h4 {
+text-transform: uppercase;
+color: rgb(237, 252, 253);
+font-size: 18px;
+font-weight: 900;
+}
+
+.form-col h3 {
+font-size: 36px;
+color: rgb(236, 220, 220);
+margin: 7px 0px 50px;
+}
